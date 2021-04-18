@@ -7,6 +7,7 @@
 > Os números complexos eram compostos por dois valores 'a' e 'b'.
 
 > a = Varia entre 0 e 1. Sendo 0 prejuízo ambiental mínimo e 1 prejuizo ambiental elevado.
+> 
 > b = Varia entre -1 e 1. Sendo -1 corrente elétrica muito baixo e 1 muito elevada.
 
 ## ☕ Usando o código;
